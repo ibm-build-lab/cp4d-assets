@@ -1,8 +1,8 @@
 # Assets for Cloud Pak for Data workshop/learning/modules
 
-In these workshop lab exercises, we use IBM Cloud Pak for Data to go through the whole data science pipeline to solve a business problem with the help of 2 use case - Customer Churn for a Telecom company and Fraud prediction in Auto Insurance claims. Cloud Pak for Data is an interactive, collaborative, cloud-based environment where data scientists, developers, and others interested in data science can use tools (e.g., RStudio, Jupyter Notebooks, Spark, etc.) to collaborate, share, and gather insight from their data as well as build and deploy machine learning and deep learning models.
+In these tutorials, we use IBM Cloud Pak for Data to go through the whole data science pipeline to solve a business problem with the help of 2 use case - Customer Churn for a Telecom company and Fraud prediction in Auto Insurance claims. Cloud Pak for Data is an interactive, collaborative, cloud-based environment where data scientists, developers, and others interested in data science can use tools (e.g., RStudio, Jupyter Notebooks, Spark, etc.) to collaborate, share, and gather insight from their data as well as build and deploy machine learning and deep learning models.
 
-When the reader has attended and completed lab tutorials in the workshop, they will understand how to:
+When the reader has completed the lab tutorials, they will understand how to:
 
 * Create a project in Cloud Pak for data
 * Use [Jupyter Notebooks](https://jupyter.org/) to load, visualize, and analyze data
@@ -22,7 +22,6 @@ When the reader has attended and completed lab tutorials in the workshop, they w
 ## Included components
 
 * [IBM Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
-* [Watson Machine Learning Add On for Cloud Pak for Data](https://www.ibm.com/cloud/machine-learning)
 
 ## Featured technologies
 
@@ -33,5 +32,7 @@ When the reader has attended and completed lab tutorials in the workshop, they w
 ## Prerequisites
 
 * [IBM Cloud Pak for Data](https://www.ibm.com/analytics/cloud-pak-for-data)
-* [Watson Machine Learning Add On for Cloud Pak for Data](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_current/wsj/analyze-data/ml-install-overview.html)
+* [Watson Machine Learning Add On for Cloud Pak for Data](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-welcome/wml.html)
+* [Watson Studio Add On for Cloud Pak for Data](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-welcome/wsl.html)
+* [Watson OpenScale Add On for Cloud Pak for Data](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/svc-welcome/aiopenscale.html)
 
