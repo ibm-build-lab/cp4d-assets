@@ -1,4 +1,4 @@
-# Assets for Cloud Pak for Data workshop
+# Assets for Cloud Pak for Data workshop/learning/modules
 
 In these workshop lab exercises, we use IBM Cloud Pak for Data to go through the whole data science pipeline to solve a business problem with the help of 2 use case - Customer Churn for a Telecom company and Fraud prediction in Auto Insurance claims. Cloud Pak for Data is an interactive, collaborative, cloud-based environment where data scientists, developers, and others interested in data science can use tools (e.g., RStudio, Jupyter Notebooks, Spark, etc.) to collaborate, share, and gather insight from their data as well as build and deploy machine learning and deep learning models.
 
