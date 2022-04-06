@@ -34,12 +34,12 @@ When the reader has completed this Code Pattern, they will understand how to:
 ## Prerequisites
 
 * [IBM Cloud Pak for Data](https://www.ibm.com/analytics/cloud-pak-for-data)
-* [Db2 Warehouse](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2-warehouse)
-* [Data Virtualization](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-data-virtualization)
-* [Watson Knowledge Catalog](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-knowledge-catalog)
-* [Watson Studio](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-studio)
+* [Db2 Warehouse Add On for Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2-warehouse)
+* [Data Virtualization Add On for Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-data-virtualization)
+* [Watson Knowledge Catalog Add On for Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-knowledge-catalog)
+* [Watson Studio Add On for Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-studio)
 * [Watson Machine Learning Add On for Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-machine-learning)
-* [Watson OpenScale](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-openscale)
+* [Watson OpenScale Add On for Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-openscale)
 
 ## Steps
 
