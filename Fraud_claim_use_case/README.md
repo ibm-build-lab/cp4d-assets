@@ -34,11 +34,14 @@ When the reader has completed this Code Pattern, they will understand how to:
 ## Prerequisites
 
 * [IBM Cloud Pak for Data](https://www.ibm.com/analytics/cloud-pak-for-data)
-* [Watson Machine Learning Add On for Cloud Pak for Data](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_current/wsj/analyze-data/ml-install-overview.html)
+* [Db2 Warehouse](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-db2-warehouse)
+* [Data Virtualization](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-data-virtualization)
+* [Watson Knowledge Catalog](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-knowledge-catalog)
+* [Watson Studio](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-studio)
+* [Watson Machine Learning Add On for Cloud Pak for Data](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-machine-learning)
+* [Watson OpenScale](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.0?topic=services-watson-openscale)
 
 ## Steps
-
-
 
 1. [Import notebook to Cloud Pak for Data](#1-import-notebook-to-cloud-pak-for-data)
 1. [Run the notebook](#2-run-the-notebook)
